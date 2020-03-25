@@ -8,11 +8,11 @@ end
 
 def add_element_to_end_of_array(array, element)
   my_array << "Tiffany"
-  puts my_array.inspect 
+  puts my_array.inspect
 end
 
 def add_element_to_start_of_array(array, element)
-  
+
 end
 
 def remove_element_from_end_of_array(array)
